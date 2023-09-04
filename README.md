@@ -1,4 +1,4 @@
-<h1>Setting Netgear Router Time Limits</h1>
+<h1>Setting Netgear Router Time Limits *FAIL DID NOT WORK*</h1>
 
 
 
@@ -42,7 +42,7 @@ Click the Schedule tab under the dropdown in the Security tab then click the Add
 <img src="https://imgur.com/EhZW5mq.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Fill in the Schedule Name if you wish, choose which days to block by clicking the appropriate boxes, then un-cklick the All Day box under Time of day to block. Then choose your hours to block in military time. I chose to start blocking at 22:00 or 10 PM and to End Blocking at 5:00 AM. Then click the green Apply tab and you are ready to go. <br/>
+Fill in the Schedule Name if you wish, choose which days to block by clicking the appropriate boxes, then un-click the All Day box under Time of day to block. Then choose your hours to block in military time. I chose to start blocking at 22:00 or 10 PM and to End Blocking at 5:00 AM. Then click the green Apply tab and you are ready to go. After performing all the settings and testing this I realized that this is not a schedular to shut off the router, but instead a scheduler for blocking specific websites. <br/>
 <img src="https://imgur.com/RgCpnBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
